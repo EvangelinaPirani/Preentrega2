@@ -1,0 +1,78 @@
+.navbar-brand:hover{
+    transform: scale(1,2);
+}
+
+.navbar-brand{
+    transition-property: all ;
+    transition-duration: 100ms;
+}
+
+.nav-link:hover{
+    transform: scale(1,2);
+}
+
+.nav-link{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+.animacioninicio:hover{
+    transform: scale(1,2);
+}
+
+.animacioninicio{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+
+
+.animacionbiografia:hover{
+    transform: scale(1,2);
+}
+
+.animacionbiografia{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+
+
+.animacioncomienzos:hover{
+    transform: scale(1,2);
+}
+
+.animacioncomienzos{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+
+.animacioncanciones:hover{
+    transform: scale(1,2);
+}
+
+.animacioncanciones{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+
+
+.animacioncontacto:hover{
+    transform: scale(1,2);
+}
+
+.animacioncontacto{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
